@@ -7,6 +7,9 @@ On Linux: Download term++, then chmod u+rwx term++ to give yourself permission
 to run, read, and write to the program file. Then you can run it by simply
 typing term++ in the same folder.
 
+Currently, the compiled binary requires GLIBC_2.29 or greater (released Feb 2019).
+Newer versions should be supported; older ones are not.
+
 
 ## Under Construction
 
