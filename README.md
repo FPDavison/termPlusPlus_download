@@ -3,7 +3,8 @@ An improved file explorer and terminal rolled into one.
 
 ## How To Download
 
-On Linux: Download term++, then chmod u+rwx term++. Then you can run it by simply
+On Linux: Download term++, then chmod u+rwx term++ to give yourself permission
+to run, read, and write to the program file. Then you can run it by simply
 typing term++ in the same folder.
 
 
